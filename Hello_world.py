@@ -13,7 +13,7 @@
 # print(2985 % 2) #от остатка - сколько останеться не разделенных
 
 
-print(3 * 7)
+# print(3 * 7)
 # print(4 ** 3)
 # print(29 % 5)
 
@@ -53,11 +53,11 @@ print(3 * 7)
 # color_auto = "white"
 # print(model_auto, color_auto, year_auto, doors_auto)
 
-# man_1 = 18
-# man_2 = 20
-# man_3 = 22
-# man_4 = 24
-# man_5 = 26
-# man_all = 5
-# x = man_1 + man_2 + man_3 + man_4 + man_5
-# print(x / man_all)
+man_1 = 18
+man_2 = 20
+man_3 = 22
+man_4 = 24
+man_5 = 26
+man_all = 5
+x = man_1 + man_2 + man_3 + man_4 + man_5
+print(x / man_all)
